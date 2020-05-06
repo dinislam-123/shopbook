@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "597664386430",
+    "firebase_url": "https://reactbuysell.firebaseio.com",
+    "project_id": "reactbuysell",
+    "storage_bucket": "reactbuysell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597664386430:android:0d742530fa838042f4372f",
+        "android_client_info": {
+          "package_name": "com.nativeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597664386430-gmlu4dnhshq7c0rp0uotirq3fobjt84l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativeproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "597664386430-cbj45epidgidfbbc27d784fthq1v8mr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-_ljlqeFeWC4tGEDzmWiLYgh9YBW12Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597664386430-cbj45epidgidfbbc27d784fthq1v8mr2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597664386430-agq9b03lftkgls94c0sa4j96v3rc1hfg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TableViewList"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
